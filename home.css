@@ -1,0 +1,16 @@
+header{
+    background-color: aqua;
+    height: 120px;
+}
+nav{
+    background-color: yellow;
+    height: 60px;
+}
+main{
+    background-color: chartreuse;
+    height: 400px;
+}
+footer{
+    background-color:orangered;
+    height:100px;
+}
