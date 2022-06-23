@@ -1,0 +1,26 @@
+.body {
+    margin: 0%;
+}
+.header {
+    background-color: chartreuse;
+    overflow: hidden;
+
+}
+.logo {
+    float:  left;
+}
+.search {
+    float:  right;
+}
+.nav li {
+  display: inline-block;
+}
+.main {
+  height: 4000px;
+}
+.footer {
+ height: 50px;
+}
+.border {
+    float: left;
+}

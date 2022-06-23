@@ -1,0 +1,43 @@
+.header{
+    background-color:palevioletred;
+}
+.nav { 
+    background-color:cornflowerblue;
+}
+.main {
+    background-color:lightsalmon;
+float: center;
+}
+.logo {
+    float:left;
+}
+.search {
+    float: right;
+}
+.banner {
+    background-color: aqua;
+}
+.footer {
+    text-align: center;
+}
+.product {
+    float: left;
+    text-align: center;
+    width: 25%;
+
+}
+.productimg {
+    width: 100px;
+
+}
+.feature product {
+    overflow: hidden;
+}
+.Best Seller Product {
+    overflow: hidden;
+    width: 33.33%;
+    text-align: center;
+}
+.artical list {
+    text-align: left;
+}
