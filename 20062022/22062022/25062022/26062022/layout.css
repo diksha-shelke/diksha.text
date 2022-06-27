@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+}
+nav{
+    background-color: chartreuse;
+    height: 120px;
+    text-align: center;
+    font-size: xx-large;
+    font-style: italic;
+}
+    
+main{
+    background-color: chartreuse;
+      height: 500px;
+   
+}
+footer{
+    background-color:orangered;
+    height:100px;
+    text-align: center;
+}
+.left-container {
+    width:20%;
+    height:500px;
+    float:left;
+    background-color: brown;
+    color: white;
+    
+   
+}
+.middle-container {
+    width:10%;
+    height:400px;
+    float:left;
+ 
+}
+.right-container {
+    width:35%;
+    height:400px;
+    float:right;
+}
+. main .img {
+    box-sizing: border-box;
+    width: 33%;
+   border-radius: rounded;
+}
+.hover {
+    color: aqua;
+}

@@ -21,8 +21,9 @@
     padding: 10px;
     text-align: center;
     border-bottom: 2px solid darkorchid;
-     
-   }
+    background-color: darksalmon;
+
+}
 
 .nav-link {
     border: 2px solid darkred;
@@ -33,70 +34,75 @@
     border-radius: 100%;
     font-style: italic;
     font-weight: bold;
-    order: background-color  red;
+   }
+
+    .hover {
+        background-color: darkgreen;
+    }
 
 
-}
+    .main {
+        padding: 20px 0;
+        overflow: hidden; 
+        background-color: darkorange;
 
-.main {
-    padding: 20px 0;
-    overflow: hidden;
+    }
 
-}
+    .left-content {
+        float: left;
+        width: 20%;
 
-.left-content {
-    float: left;
-    width: 20%;
+    }
 
-}
+    .left-nav-link {
+        border-bottom: 2px solid darkblue;
+        padding: 5px 10px;
+        background-color: chartreuse;
+    }
 
-.left-nav-link {
-    border-bottom: 2px solid darkblue;
-    padding: 5px 10px;
-}
+    .middle-content {
+        float: left;
+        width: 60%;
+        text-align: center;
+    }
 
-.middle-content {
-    float: left;
-    width: 60%;
-    text-align: center;
-}
+    .banner {
 
-.banner {
+        padding: 0 20px;
+        border-radius: 100%;
+    }
 
-    padding: 0 20px;
-    border-radius: 100%;
-}
+    .banner-image {
+        width: 100%;
 
-.banner-image {
-    width: 100%;
+    }
 
-}
+    .middle-content .product {
+        display: inline-block;
 
-.middle-content .product {
-    display: inline-block;
+    }
 
-}
+    .right-content {
+        float: left;
+        width: 20%;
+        text-align: center;
+    }
 
-.right-content {
-    float: left;
-    width: 20%;
-    text-align: center;
-}
+    .product {
+        width: 150px;
+        margin-bottom: 10px;
+        border: 2px solid darkgreen;
+    }
 
-.product {
-    width: 150px;
-    margin-bottom: 10px;
-    border: 2px solid darkgreen;
-}
+    .product-image {
+        width: 100px;
+        height: 100px;
+        display: inline-block;
+    
+    }
 
-.product-image {
-    width: 100px;
-    height: 100px;
-    display: inline-block;
-}
-
-.footer {
-    background-color: chartreuse;
-    text-align: center;
-    padding: 20px;
-}
+    .footer {
+        background-color: chartreuse;
+        text-align: center;
+        padding: 20px;
+    }

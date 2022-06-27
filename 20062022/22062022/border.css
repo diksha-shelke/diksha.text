@@ -44,7 +44,15 @@
     padding: 20px 0;
     overflow: hidden;
 }
+.left-content {
+    float: left;
+    width: 20%;
 
+}
+.left-nav-link {
+    border-bottom: 2px solid black;
+    padding: 5px 10px;
+}
 .footer {
     background-color: coral;
     padding: 10px;
