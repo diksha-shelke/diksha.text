@@ -1,0 +1,21 @@
+main {
+    overflow: hidden;
+}
+.column {
+    text-align: center;
+    width: 60%;
+    box-sizing: border-box;
+    margin: 0 auto;
+    border: 2px solid black;
+    margin-top: 20px;
+    color: white;
+    background-color: black;
+    overflow: hidden;
+    max-width: 1000%;
+    padding: 100px;
+    
+}
+.banner {
+    background-color: black;
+    overflow: hidden;
+}

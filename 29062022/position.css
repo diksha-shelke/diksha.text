@@ -1,0 +1,27 @@
+.container {
+    background-color: aquamarine;
+    padding: 10px;
+    height: 1000px;
+
+}
+.header {
+   background-color: chartreuse;
+    padding: 20px;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.nav {
+    position: relative;
+    margin-top: 100px;
+}
+.nav .child-nav {
+    display: none;
+    background-color: cornflowerblue;
+    position: absolute;
+    width: 200px;
+    top: 10px;
+}
+.nav:hover .child-nav {
+    display: block;
+}

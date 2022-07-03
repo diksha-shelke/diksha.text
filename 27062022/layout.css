@@ -1,0 +1,39 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main {
+       width: 100%;
+       margin: 10px auto;
+       border: 5px solid darkorange;
+       display: grid;color: black;
+       grid-template-rows: 100px 100px 200px 100px;
+       grid-template-columns: repeat(3,1fr) 150px;
+       grid-gap: 30px;
+}
+.div1 {
+      background-color: aqua;
+      width: 100%;
+      grid-column: 1/-1;
+}
+.div2 {
+    background-color: blue;
+    width: 100%;
+}
+.div3 {
+    background-color: blueviolet;
+}
+.div4 {
+    background-color:darkred;
+}
+.div5 {
+    background-color: darkolivegreen;
+}
+.div6 {
+    background-color: chartreuse;
+    grid-column: 1/4;
+}
+.div7 {
+    background-color: darkgreen;
+}

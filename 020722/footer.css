@@ -1,0 +1,15 @@
+.body {
+    margin: 0;
+}
+
+.header {
+    background-color: black;
+    padding: 15px;
+    color: white;
+}
+footer {
+    background-color: blueviolet;
+    padding: 20px;
+    text-align: center;
+}
+

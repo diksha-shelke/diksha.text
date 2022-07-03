@@ -1,0 +1,146 @@
+.body {
+    margin: 0%;
+}
+
+.header {
+    background-color: lightgreen;
+}
+
+.header .column1 {
+    width: 25%;
+    float: left;
+    background-color: chartreuse;
+    overflow: hidden;
+    padding: 15px;
+    overflow: hidden;
+  }
+
+.header .column2 {
+    text-align: center;
+    width: 75%;
+    background-color: lightgreen;
+    padding: 15px;
+    }
+
+.nav {
+    background-color: purple;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+.main {
+    background-color: crimson;
+    padding: 90px;
+    }
+
+.footer {
+    background-color: blue;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+.grid-container {
+    width: 100%;
+    display: grid;color: black;
+    grid-template-columns: auto auto auto ;
+    grid-template-rows: 150px 100px 100px;
+    gap: 0px;
+    margin: 10px auto;
+    
+}
+
+.grid-item1 {
+    background-color: brown;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    grid-template-columns: 25% 60% 50%;
+    grid-template-rows: 150px 100px 100px;
+    height: 20pc;
+   }
+
+.grid-item2 {
+    background-color: darkorange;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    grid-template-columns: 25% 30% 50%;
+    grid-template-rows: 150px 100px 100px;
+    height: 20pc;
+    }
+
+.grid-item3 {
+    background-color: darkviolet;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    grid-template-columns: 25% 30% 50%;
+    grid-template-rows: 150px 100px 100px;
+    height: 20pc;
+      
+}
+
+.grid-item4 {
+    background-color: darkcyan;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    grid-template-columns: 25% 30% 50%;
+    grid-template-rows: 150px 100px 100px;
+    height: 10pc;
+    
+}
+
+.grid-item5 {
+    background-color: darkseagreen;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    grid-template-columns: 25% 30% 50%;
+    grid-template-rows: 150px 100px 100px;
+    height: 10pc;
+    
+}
+
+.grid-item6 {
+    background-color: darkslateblue;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    grid-template-columns: 25% 30% 50%;
+    grid-template-rows: 150px 100px 100px;
+    height: 15pc;
+}
+.grid-item7 {
+    background-color: darkgreen;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    grid-template-columns: 25% 30% 50%;
+    grid-template-rows: 150px 100px 100px;
+    height: 10pc;
+    
+}
+
+.grid-item8 {
+    background-color:darksalmon;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    grid-template-columns: 25% 30% 50%;
+    grid-template-rows: 150px 100px 100px;
+    height: 10pc;
+    
+}
+
+.grid-item9 {
+    background-color: darkgoldenrod;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    grid-template-columns: 35% 30% 50%;
+    grid-template-rows: 150px 100px 100px;
+    height: 10pc;
+}

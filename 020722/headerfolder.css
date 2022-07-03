@@ -1,0 +1,14 @@
+body {
+    margin: 0%;
+}
+.header {
+    background-color: aqua;
+    overflow: hidden;
+    float: left;
+    width: 100%;
+}
+.header-text {
+    text-align: center;
+    color: black;
+    padding: 20px;
+    }

@@ -1,6 +1,7 @@
 header{
     background-color: aqua;
     height: 120px;
+    position: absolute;
 }
 nav{
     background-color: yellow;

@@ -1,0 +1,36 @@
+header {
+    background-color: aqua;
+    height: 120px;
+}
+nav{
+    background-color: yellow;
+    height: 60px;
+}
+main{
+    background-color: chartreuse;
+    height: 400px;
+}
+footer{
+    background-color:orangered;
+    height:100px;
+}
+.left-container {
+    width:30%;
+    background-color: blueviolet;
+    height:400px;
+    float:left;
+ 
+}
+.middle-container {
+    width:35%;
+    background-color:olive;
+    height:400px;
+    float:left;
+  
+}
+.right-container {
+    width:35%;
+    background-color: brown;
+    height:400px;
+    float:right;
+}

@@ -1,0 +1,91 @@
+.body {
+    margin: 0;
+}
+
+.header {
+    background-color: black;
+    padding: 15px;
+    color: white;
+    overflow: hidden;
+}
+
+.logo {
+    float: left;
+    width: 20%;
+}
+
+.text-link {
+    display: inline-block;
+    padding: 10px;
+    background-color: black;
+
+}
+.link {
+    float: right;
+    width: 70%;
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+main {
+    overflow: hidden;
+}
+.column {
+    text-align: center;
+    width: 60%;
+    box-sizing: border-box;
+    margin: 0 auto;
+    border: 2px solid black;
+    margin-top: 20px;
+    color: white;
+    background-color: black;
+    overflow: hidden;
+    max-width: 1000%;
+    padding: 100px;
+    
+}
+.banner {
+    background-color: black;
+    overflow: hidden;
+}
+.row-left {
+    background-color:black;
+    width: 20%;
+    border: 1px solid black;
+    margin: 10px;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.row-center {
+    background-color:black;
+    width: 20%;
+    border: 1px solid black;
+    margin: 10px;
+    color: white;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.row-right {
+    background-color:black;
+    width: 20%;
+    border: 1px solid black;
+    color: white;
+    margin-top: 20px;
+    padding: 10px ;
+    float:left;
+    box-sizing: border-box;
+    margin: 10px;
+    max-width: 1000%;
+    
+}
+.footer {
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+
