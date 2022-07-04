@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+.header {
+    background-color:#F2F2F2;
+    padding: 10px 10px; 
+}
+.logo {
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    color: gray;
+    overflow: hidden;
+}
+.top-nav__list,.nav__listitem {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: gray;
+  }
+.top-nav__listitem,.nav__listitem {
+    display: inline-block;
+    padding: 5px 20px;
+    color:#00095B ;
+}
+.nav .nav__list {
+   text-align: center;
+   color: #00095B;
+   overflow: hidden;
+}
+.nav .nav1 .nav1__listitem {
+    text-align: left;
+    background-color: #DA7029;;
+    padding: 10px 20px;
+    width: 100%;
+    color: white;
+    overflow: hidden;
+}

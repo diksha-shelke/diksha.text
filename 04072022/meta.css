@@ -1,0 +1,23 @@
+img {
+    width: 100%;
+}
+
+.block {
+    width: 50%;
+    background-color: brown;
+}
+@media screen and (max-width: 1024px) {
+    .table {
+        background-color:yellow;
+        width: 50%;
+        float: left;
+        padding: 10px;
+    }
+}
+ @media screen and (max-width: 768px) {
+    .table {
+        background-color: orange;
+        width: 50%;
+        float: left;
+    }
+}

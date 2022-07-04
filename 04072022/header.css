@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+}
+
+.header {
+    color: black;
+    background-color: lightcoral;
+
+}
+
+.inner-header {
+    padding: 10px 20px;
+    overflow: hidden;
+}
+
+.top-nav__list,.nav__list {
+    margin: 0;
+    padding: 5px 20px;
+    text-align: right;
+    background-color: lightpink;
+}
+
+.top-nav__listitem,.nav__listitem {
+    display: inline-block;
+    padding: 5px 0 5px 20px;
+    position: relative;
+    color: green;
+}
+
+.nav .nav__list {
+    text-align: center;
+    border-bottom: 1px solid;
+    background: none;
+}
+
+.logo {
+    float: left;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+.search {
+    float: right;
+}
+
+.search-input {
+    padding: 10px;
+    border: 1px solid black;
+    width: 200px;
+}
